@@ -64,7 +64,7 @@ int main()
                 it2->printStudentInfo();
             }
             else
-                cout << "Ei loytynyt" << endl;
+                cout << "Not found" << endl;
             break;
         }
         default:
